@@ -16,11 +16,19 @@ example_sample = [
     ["你饿吗？", 128],
 ]
 
-def demo_func(prefix, max_length):
+def demo_func(prefix, max_length, use_pred_sp = True):
     max_length = max(int(max_length), 32)
     x = obj.predict(prefix, max_length=max_length)[0]
     y = list(map(lambda x: "".join(x).replace(" ", ""),batch_as_list(re.split(r"([。.？?])" ,x), 2)))
-    l = predict_split(y)
+    if use_pred_sp:
+        l = predict_split(y)
+    else:
+        l = y
+    l_ = []
+    for ele in l:
+        if ele not in l_:
+            l_.append(ele)
+    l = l_
     assert type(l) == type([])
     return {
         "Dialogue Context": l
