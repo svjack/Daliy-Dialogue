@@ -26,7 +26,7 @@ def demo_func(prefix, max_length, use_pred_sp = True):
         l = y
     l_ = []
     for ele in l:
-        if ele not in l_:
+        if ele and ele not in l_:
             l_.append(ele)
     l = l_
     assert type(l) == type([])
