@@ -16,7 +16,8 @@ class Obj:
     def __init__(self, model, tokenizer, device = "cpu"):
         self.model = model
         self.tokenizer = tokenizer
-        self.device = "cpu"
+        self.device = device
+        self.model = self.model.to(self.device)
 
     def predict(
         self,
