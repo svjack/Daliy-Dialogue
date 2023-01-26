@@ -1,9 +1,0 @@
-.table-wrapper {
-  width: 50% !important;
-  max-width: 50% !important;
-}
-
-table td {
-  min-width:100px;
-  word-wrap:break-word;
-}
