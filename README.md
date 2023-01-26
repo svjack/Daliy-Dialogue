@@ -10,14 +10,29 @@
 </p>
 
 ## Brief introduction
-[DailyDialog](https://aclanthology.org/I17-1099/) is a high-quality multi-turn dialog dataset. This project give three Daliy Dialogue Context Generators trained with Bloom and GPT.
+[DailyDialog](https://aclanthology.org/I17-1099/) is a high-quality multi-turn dialog dataset. This project give some Dialogue Context Generators trained with Bloom and GPT in English and Chinese.
 
-## HuggingFace Space demonstration
-* 1 Bloom English Daliy Dialogue Generator 🦅🌸 demonstration: https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-english
-* 2 Bloom Chinese Daliy Dialogue Generator 🐰🌸 demonstration: https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-chinese
-* 3 GPT Chinese Daliy Dialogue Generator 🐰 demonstration: https://huggingface.co/spaces/svjack/gpt-daliy-dialogue-chinese
+## HuggingFace demonstration
+
+### Model demonstration
+|Name |HuggingFace Model link| HuggingFace Space link | Language |
+|---------|--------|-------|-------|
+|Bloom English Daliy Dialogue Generator 🦅🌸| https://huggingface.co/svjack/bloom-daliy-dialogue-english | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-english | English |
+|Bloom Chinese Daliy Dialogue Generator 🐰🌸| https://huggingface.co/svjack/bloom-daliy-dialogue | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-chinese | Chinese |
+|GPT Chinese Daliy Dialogue Generator 🐰| https://huggingface.co/svjack/gpt-daliy-dialogue | https://huggingface.co/spaces/svjack/gpt-daliy-dialogue-chinese | Chinese |
+|Bloom Chinese Dialogue Generator 🐰🌸| https://huggingface.co/svjack/bloom-dialogue | https://huggingface.co/spaces/svjack/bloom-dialogue-chinese | Chinese |
+|GPT Chinese Dialogue Generator 🐰| https://huggingface.co/svjack/gpt-dialogue | https://huggingface.co/spaces/svjack/gpt-dialogue-chinese | Chinese |
+
+### Dataset generate by above models demonstration
+|Name |HuggingFace Dataset link| HuggingFace Space link | Language |
+|---------|--------|-------|-------|
+| English Daliy Dialogue model generate samples 🦅🌸| https://huggingface.co/datasets/svjack/bloom-dialogue-generate-ds-en | https://huggingface.co/spaces/svjack/bloom-dialogue-english-sample-search| English |
+| Chinese Dialogue model generate samples 🐰🌸| https://huggingface.co/datasets/svjack/bloom-dialogue-generate-ds-zh | https://huggingface.co/spaces/svjack/bloom-gpt-dialogue-chinese-sample-search | Chinese |
+
 
 ## Installation and Instructions
+
+Refer to HuggingFace Model cards.
 
 ### Installation
 ```bash
