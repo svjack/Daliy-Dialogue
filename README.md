@@ -26,8 +26,8 @@
 ### Dataset generate by above models demonstration
 |Name |HuggingFace Dataset link| HuggingFace Space link | Language |
 |---------|--------|-------|-------|
-| English Daliy Dialogue model generate samples 🦅🌸| <div style="width: 50pt"> https://huggingface.co/datasets/svjack/bloom-dialogue-generate-ds-en </div> | https://huggingface.co/spaces/svjack/bloom-dialogue-english-sample-search| English |
-| Chinese Dialogue model generate samples 🐰🌸| <div style="width: 50pt"> https://huggingface.co/datasets/svjack/bloom-dialogue-generate-ds-zh </div> | https://huggingface.co/spaces/svjack/bloom-gpt-dialogue-chinese-sample-search | Chinese |
+| English Daliy Dialogue model generate samples 🦅🌸| <div style="width: 5pt"> https://huggingface.co/datasets/svjack/bloom-dialogue-generate-ds-en </div> | https://huggingface.co/spaces/svjack/bloom-dialogue-english-sample-search| English |
+| Chinese Dialogue model generate samples 🐰🌸| <div style="width: 5pt"> https://huggingface.co/datasets/svjack/bloom-dialogue-generate-ds-zh </div> | https://huggingface.co/spaces/svjack/bloom-gpt-dialogue-chinese-sample-search | Chinese |
 
 
 ## Installation and Instructions
