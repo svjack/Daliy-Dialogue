@@ -19,17 +19,17 @@
 ### 模型展示
 |名称 |HuggingFace 模型链接| HuggingFace 空间链接 | 语言 |
 |---------|--------|-------|-------|
-|Bloom English Daliy Dialogue Generator 🦅🌸| https://huggingface.co/svjack/bloom-daliy-dialogue-english | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-english | English |
-|Bloom Chinese Daliy Dialogue Generator 🐰🌸| https://huggingface.co/svjack/bloom-daliy-dialogue | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-chinese | Chinese |
-|GPT Chinese Daliy Dialogue Generator 🐰| https://huggingface.co/svjack/gpt-daliy-dialogue | https://huggingface.co/spaces/svjack/gpt-daliy-dialogue-chinese | Chinese |
-|Bloom Chinese Dialogue Generator 🐰🌸| https://huggingface.co/svjack/bloom-dialogue | https://huggingface.co/spaces/svjack/bloom-dialogue-chinese | Chinese |
-|GPT Chinese Dialogue Generator 🐰| https://huggingface.co/svjack/gpt-dialogue | https://huggingface.co/spaces/svjack/gpt-dialogue-chinese | Chinese |
+|Bloom 英语日常对话生成器 🦅🌸| https://huggingface.co/svjack/bloom-daliy-dialogue-english | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-english | English |
+|Bloom 中文日常对话生成器 🐰🌸| https://huggingface.co/svjack/bloom-daliy-dialogue | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-chinese | Chinese |
+|GPT 中文日常对话生成器 🐰| https://huggingface.co/svjack/gpt-daliy-dialogue | https://huggingface.co/spaces/svjack/gpt-daliy-dialogue-chinese | Chinese |
+|Bloom 中文对话生成器 🐰🌸| https://huggingface.co/svjack/bloom-dialogue | https://huggingface.co/spaces/svjack/bloom-dialogue-chinese | Chinese |
+|GPT 中文对话生成器 🐰| https://huggingface.co/svjack/gpt-dialogue | https://huggingface.co/spaces/svjack/gpt-dialogue-chinese | Chinese |
 
 ### 由上述模型生成的数据集展示
 |名称 |HuggingFace 数据集链接| HuggingFace 空间链接 | 语言 |
 |---------|--------|-------|-------|
-| English Daliy Dialogue model generate samples 🦅🌸| https://huggingface.co/datasets/svjack/bloom-dialogue-generate-ds-en | https://huggingface.co/spaces/svjack/bloom-dialogue-english-sample-search| English |
-| Chinese Dialogue model generate samples 🐰🌸| https://huggingface.co/datasets/svjack/bloom-dialogue-generate-ds-zh | https://huggingface.co/spaces/svjack/bloom-gpt-dialogue-chinese-sample-search | Chinese |
+| 英语日常对话生成例子（提供搜索支持） 🦅🌸| https://huggingface.co/datasets/svjack/bloom-dialogue-generate-ds-en | https://huggingface.co/spaces/svjack/bloom-dialogue-english-sample-search| English |
+| 中文对话生成例子（提供搜索支持） 🐰🌸| https://huggingface.co/datasets/svjack/bloom-dialogue-generate-ds-zh | https://huggingface.co/spaces/svjack/bloom-gpt-dialogue-chinese-sample-search | Chinese |
 
 ## 安装和结构
 
