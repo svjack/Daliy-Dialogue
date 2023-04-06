@@ -9,6 +9,8 @@
   </p>
 </p>
 
+[README.md](中文简介)
+
 ## Brief introduction
 [DailyDialog](https://aclanthology.org/I17-1099/) is a high-quality multi-turn dialog dataset. This project give some Dialogue Context Generators trained with Bloom and GPT in English and Chinese.
 
