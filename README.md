@@ -14,10 +14,22 @@
 ## 简要引述
 [DailyDialog 日常对话](https://aclanthology.org/I17-1099/) 是一个高质量的多回合对话数据集。该项目提供了三个使用 Bloom 和 GPT 训练的日常对话上下文生成器。
 
-## HuggingFace 空间展示
-* 1 Bloom 英文日常对话生成器 🦅🌸 展示链接: https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-english
-* 2 Bloom 中文日常对话生成器 🐰🌸 展示链接: https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-chinese
-* 3 GPT 中文日常对话生成器 🐰 展示链接: https://huggingface.co/spaces/svjack/gpt-daliy-dialogue-chinese
+## HuggingFace 展示
+
+### 模型展示
+|名称 |HuggingFace 模型链接| HuggingFace 空间链接 | 语言 |
+|---------|--------|-------|-------|
+|Bloom English Daliy Dialogue Generator 🦅🌸| https://huggingface.co/svjack/bloom-daliy-dialogue-english | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-english | English |
+|Bloom Chinese Daliy Dialogue Generator 🐰🌸| https://huggingface.co/svjack/bloom-daliy-dialogue | https://huggingface.co/spaces/svjack/bloom-daliy-dialogue-chinese | Chinese |
+|GPT Chinese Daliy Dialogue Generator 🐰| https://huggingface.co/svjack/gpt-daliy-dialogue | https://huggingface.co/spaces/svjack/gpt-daliy-dialogue-chinese | Chinese |
+|Bloom Chinese Dialogue Generator 🐰🌸| https://huggingface.co/svjack/bloom-dialogue | https://huggingface.co/spaces/svjack/bloom-dialogue-chinese | Chinese |
+|GPT Chinese Dialogue Generator 🐰| https://huggingface.co/svjack/gpt-dialogue | https://huggingface.co/spaces/svjack/gpt-dialogue-chinese | Chinese |
+
+### 由上述模型生成的数据集展示
+|名称 |HuggingFace 数据集链接| HuggingFace 空间链接 | 语言 |
+|---------|--------|-------|-------|
+| English Daliy Dialogue model generate samples 🦅🌸| https://huggingface.co/datasets/svjack/bloom-dialogue-generate-ds-en | https://huggingface.co/spaces/svjack/bloom-dialogue-english-sample-search| English |
+| Chinese Dialogue model generate samples 🐰🌸| https://huggingface.co/datasets/svjack/bloom-dialogue-generate-ds-zh | https://huggingface.co/spaces/svjack/bloom-gpt-dialogue-chinese-sample-search | Chinese |
 
 ## 安装和结构
 
