@@ -12,7 +12,7 @@
 [In English](README_EN.md)
 
 ## 简要引述
-[DailyDialog 日常对话](https://aclanthology.org/I17-1099/) 是一个高质量的多回合对话数据集。该项目提供了三个使用 Bloom 和 GPT 训练的日常对话上下文生成器。
+[DailyDialog 日常对话](https://aclanthology.org/I17-1099/) 是一个高质量的多回合对话数据集。该项目提供了5个使用 Bloom 和 GPT 训练的日常对话上下文生成器。
 
 ## HuggingFace 展示
 
